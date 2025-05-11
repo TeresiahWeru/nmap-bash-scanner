@@ -49,7 +49,7 @@ nmap -A $target | tee -a $filename
 echo -e "\nScan completed. Check the file: $filename"
 
 
-Screenshots
+SCREENSHOTS
 Ping scan
 Running Ping Scan...
 Starting Nmap 7.80 ( https://nmap.org ) at 2025-05-11 10:15 UTC
