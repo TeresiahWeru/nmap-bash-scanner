@@ -1,0 +1,7 @@
+Running Ping Scan...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-05-11 10:15 UTC
+Nmap scan report for 192.168.1.1
+Host is up (0.0045s latency).
+Nmap done: 1 IP address (1 host up) scanned in 1.57 seconds
+
+
